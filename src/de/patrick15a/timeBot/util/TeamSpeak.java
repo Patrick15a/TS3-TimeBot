@@ -11,8 +11,8 @@ import com.github.theholywaffle.teamspeak3.api.reconnect.ReconnectStrategy;
 public class TeamSpeak {
 	
 	private String		host		= "localhost";
-	private int			port		= 9987;
-	private int			queryport	= 10011;
+	private int		port		= 9987;
+	private int		queryport	= 10011;
 	private String		queryname	= "";
 	private String		password	= "";
 
